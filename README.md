@@ -274,6 +274,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Making traditional finance accessible through blockchain innovation**
 
-[🚀 Try Spout Finance](https://your-platform-url.com) | [📖 Documentation](https://docs.spout-finance.com) | [💬 Community](https://discord.gg/spout-finance)
 
 </div>
