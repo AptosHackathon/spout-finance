@@ -54,6 +54,14 @@ Transform how people invest by making high-quality traditional assets accessible
 
 Spout Finance consists of three integrated components working together to deliver a seamless DeFi experience:
 
+### 📊 **System Flow Architecture**
+
+![Spout Finance Trading Flow](assets/ss1.png)
+*Trading flow showing user interactions with assets, oracle price feeds, and order execution*
+
+![Spout Finance Backend Integration](assets/ss2.png)
+*Backend integration architecture showing token contracts, KYC registry, and system interactions*
+
 ### 🖥️ **Frontend Application** (`app-interface/`)
 **Next.js 15 + TypeScript** - Modern, responsive web application
 - **Wallet Integration**: Native Aptos wallet support (Petra, Martian, etc.)
