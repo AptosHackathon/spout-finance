@@ -1,0 +1,9 @@
+[submodule "app-interface"]
+	path = app-interface
+	url = git@github.com:AptosHackathon/app-interface.git
+[submodule "spout-backend-aptos"]
+	path = spout-backend-aptos
+	url = git@github.com:AptosHackathon/spout-backend-aptos.git
+[submodule "Movecontracts"]
+	path = Movecontracts
+	url = git@github.com:AptosHackathon/Movecontracts.git
