@@ -85,7 +85,6 @@ Spout Finance consists of three integrated components working together to delive
 | 🚗 **Tesla** | Equity | TSLA | Tesla Inc. Stock Token | 1:1 ETF |
 | 🍎 **Apple** | Equity | AAPL | Apple Inc. Stock Token | 1:1 ETF |
 | 🥇 **Gold** | Commodity | GOLD | SPDR Gold Shares ETF Token | 1:1 ETF |
-| 💰 **Base Currency** | Stablecoin | USDC | USD Coin for trading | Fiat-backed |
 
 ---
 
