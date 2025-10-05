@@ -5,7 +5,7 @@
 ## 🌐 **Live Deployments**
 ### 🚀 [**Launch Spout Finance →**](https://spout-aptos.vercel.app/)
 ### 🛡️ **TEE Backend**: [https://92a7be451ddb4f83627f81b188f8137bba80a65d-8090.dstack-prod5.phala.network/](https://92a7be451ddb4f83627f81b188f8137bba80a65d-8090.dstack-prod5.phala.network/)
-### 🔗 **Smart Contracts**: [View on Aptos Testnet Explorer](https://explorer.aptoslabs.com/object/0xf21ca0578f286a0ce5e9f43eab0387a9b7ee1b9ffd1f4634a772d415561fa0fd?network=testnet)
+### 🔗 **Smart Contracts**: [View on Aptos Testnet Explorer](https://explorer.aptoslabs.com/object/0x27220ac73da9851e597d9a016baa842b7c33b064f322da7ca24230ad5e606554?network=testnet)
 
 
 [![Aptos](https://img.shields.io/badge/Built%20on-Aptos-00D4FF?style=for-the-badge&logo=blockchain)](https://aptos.dev/)
