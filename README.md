@@ -244,24 +244,6 @@ We welcome contributions from the community! Whether you're interested in:
 3. Make your changes and add tests
 4. Submit a pull request with a clear description
 
----
-
-## 📞 Support & Community
-
-### 🆘 **Get Help**
-- 📧 **Email**: support@spout-finance.com
-- 💬 **Discord**: [Join our community](https://discord.gg/spout-finance)
-- 🐦 **Twitter**: [@SpoutFinance](https://twitter.com/SpoutFinance)
-- 📚 **Documentation**: [docs.spout-finance.com](https://docs.spout-finance.com)
-
-### 📖 **Resources**
-- 🎓 [Getting Started Guide](./docs/getting-started.md)
-- 🔧 [Developer Documentation](./docs/developers.md)
-- 📊 [API Reference](./docs/api-reference.md)
-- 🔐 [Security Best Practices](./docs/security.md)
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
