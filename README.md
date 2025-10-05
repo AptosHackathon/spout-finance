@@ -37,7 +37,7 @@ Transform how people invest by making high-quality traditional assets accessible
 - **Scalable Infrastructure**: Handle thousands of transactions per second
 
 ### 🔐 **Enterprise-Grade Security**
-- **Multi-Oracle Price Feeds**: Switchboard and Pyth integration for accurate pricing
+- **Oracle Price Feeds**: Pyth integration for accurate pricing
 - **On-Chain KYC**: Decentralized identity verification system
 - **TEE Backend**: Secure backend deployment on Phala's Trusted Execution Environment
 - **Formal Verification**: Move language ensures mathematical proof of contract safety
@@ -110,11 +110,8 @@ Spout Finance consists of three integrated components working together to delive
 - **Real-Time Data**: Live price feeds from multiple professional data sources
 - **Compliance**: Built-in regulatory compliance and audit trails
 
-### 🌐 **Multi-Oracle Price Feeds**
-- **Switchboard**: Decentralized oracle network integration
+### 🌐 **Oracle Price Feeds**
 - **Pyth Network**: High-frequency financial market data
-- **Alpha Vantage**: Professional-grade stock market APIs
-- **Custom Aggregation**: Multi-source price validation and aggregation
 
 ---
 
@@ -204,28 +201,6 @@ cd Movecontracts/contract && aptos move publish --profile testnet
 - **Audit Trail**: Complete transaction history and regulatory reporting
 - **Risk Management**: Built-in risk assessment and monitoring tools
 - **Data Privacy**: GDPR-compliant user data handling
-
----
-
-## 🎯 Roadmap
-
-### 🚀 **Phase 1: Foundation** ✅
-- ✅ Core smart contracts deployment
-- ✅ Multi-asset trading platform  
-- ✅ KYC registry implementation
-- ✅ TEE backend deployment
-
-### 📈 **Phase 2: Growth** 🔄
-- 🔄 Additional asset classes (REITs, International ETFs)
-- 🔄 Advanced trading features (derivatives, lending)
-- 🔄 Mobile application development
-- 🔄 Institutional API access
-
-### 🌍 **Phase 3: Scale** 📅
-- 📅 Cross-chain integration (Ethereum, Solana)
-- 📅 Automated portfolio management
-- 📅 Institutional partnerships
-- 📅 Global regulatory compliance
 
 ---
 
